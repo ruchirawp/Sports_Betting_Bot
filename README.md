@@ -1,38 +1,44 @@
-# Discord Sports Betting Bot
+# 🎮 Discord Sports Betting Bot
 
-## Bet on real sports events through discord! 
+## 🏟️ Bet on Real Sports Events Through Discord!
 
-## 📸 Demo
+Place bets, track your balance, and compete with friends — all inside a Discord server.
 
-## Incentives
-#### We created interest in our project by offering prizes to those who earned enough money through betting. The top prize was a Nintendo Switch!
-### ![Incentives](./demo/prizes.PNG)
+---
 
-## Account
-#### Users can view their balance and betting records
-### ![Incentives](./demo/account.PNG)
+## 🏆 Incentives
 
-## How to Bet
-#### Users can place bets through commands written into the chat.
-### ![Incentives](./demo/events.PNG)
-### ![Incentives](./demo/placeBet.PNG)
+We created excitement by offering real-world prizes to top bettors.  
+The grand prize? A **Nintendo Switch!** 🎁
 
-## How to use the bot
-#### List of commands to help users navigate the bot 
-### ![Incentives](./demo/instructions.PNG)
+![Prizes Screenshot](./demo/prizes.PNG)
 
+---
 
+## 💰 Account
 
+Users can view their **balance** and **betting history** at any time.
 
+![Account Page](./demo/account.PNG)
 
+---
 
+## 📝 How to Bet
 
+Place bets using simple text commands in the chat.
 
+### 📅 Browse Events
 
+![Browse Events Screenshot](./demo/events.PNG)
 
+### 🎯 Place a Bet
 
+![Place Bet Screenshot](./demo/placeBet.PNG)
 
+---
 
+## 🤖 Bot Commands
 
-Invite this bot to your discord server! 
-https://discord.com/api/oauth2/authorize?client_id=839949091693527050&permissions=0&scope=bot
+Easily navigate the bot using built-in help commands.
+
+![Instructions Screenshot](./demo/instructions.PNG)
