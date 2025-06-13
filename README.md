@@ -3,13 +3,13 @@
 ## Bet on real sports events through discord! 
 
 
-### 📸 Demo
+## 📸 Demo
 
-#### Incentives
+### Incentives
+#### We created interest in our project by offering prizes to those who earned enough money through betting. The top prize was a Nintendo Switch!
 
-#### ![Incentives](./demo/prizes.PNG)
+### ![Incentives](./demo/prizes.PNG)
 
-We created interest in our project by offering prizes to those who earned enough money through betting. The top prize was a Nintendo Switch!
 
 
 
