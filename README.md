@@ -8,8 +8,8 @@ Place bets, track your balance, and compete with friends — all inside a Discor
 
 ## 🏆 Incentives
 
-We created excitement by offering real-world prizes to top bettors.  
-The grand prize? A **Nintendo Switch!** 🎁
+We created interest in our project by offering prizes to those who earned enough money through betting. 
+The top prize was a Nintendo Switch!🎁
 
 ![Prizes Screenshot](./demo/prizes.PNG)
 
