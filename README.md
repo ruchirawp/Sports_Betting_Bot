@@ -2,26 +2,22 @@
 
 ## Bet on real sports events through discord! 
 
-
 ## 📸 Demo
 
-### Incentives
-### ![Incentives](./demo/prizes.PNG)
+## Incentives
 #### We created interest in our project by offering prizes to those who earned enough money through betting. The top prize was a Nintendo Switch!
+### ![Incentives](./demo/prizes.PNG)
 
-### Account
+## Account
 #### Users can view their balance and betting records
 ### ![Incentives](./demo/account.PNG)
 
-
-
-### How to Bet
+## How to Bet
 #### Users can place bets through commands written into the chat.
 ### ![Incentives](./demo/events.PNG)
 ### ![Incentives](./demo/placeBet.PNG)
 
-
-### How to use the bot
+## How to use the bot
 #### List of commands to help users navigate the bot 
 ### ![Incentives](./demo/instructions.PNG)
 
