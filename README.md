@@ -1,13 +1,13 @@
-#Discord Sports Betting Bot
+# Discord Sports Betting Bot
 
-##Bet on real sports events through discord! 
+## Bet on real sports events through discord! 
 
 
 ### 📸 Demo
 
 #### Incentives
 
-####![Incentives](./demo/prizes.PNG)
+#### ![Incentives](./demo/prizes.PNG)
 
 We created interest in our project by offering prizes to those who earned enough money through betting. The top prize was a Nintendo Switch!
 
